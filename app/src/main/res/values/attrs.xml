@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AudioSpectrumView">
+        <attr name="spec_bg" format="color"/>
+        <attr name="spec_color" format="color"/>
+        <attr name="spec_w" format="dimension"/>
+        <attr name="spec_count" format="integer"/>
+        <attr name="spec_block_h" format="dimension"/>
+        <attr name="spec_top_m" format="dimension"/>
+        <attr name="spec_block" format="boolean"/>
+        <attr name="spec_interval" format="integer"/>
+    </declare-styleable>
+</resources>
