@@ -1,5 +1,6 @@
 # AudioSpectrumView
 音乐播放，频谱显示控件
+```java
 <com.liyeyu.audiospectrumview.view.AudioSpectrumView
         android:layout_width="match_parent"
         android:layout_height="200dp"
@@ -10,3 +11,4 @@
         app:spec_w="12dp"
         app:spec_count="10"
         />
+```
